@@ -3,6 +3,5 @@ provider "aws" {
     
 }
 
-resource "aws_instance" "server1" {
-     
-}
+this is shyam patel
+this is shyam bhai
